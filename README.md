@@ -2,9 +2,6 @@
 
 A simple responsive webpage made with HTML, CSS, and Bootstrap 4 for a fictional Museum of Candy.
 
-## 🌐 Demo
-[View Live](https://your-username.github.io/museum-of-candy/)
-
 ## 📁 Contents
 - `index.html` — Main HTML file
 - `app.css` — Custom styles
